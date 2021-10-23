@@ -1,16 +1,16 @@
 {
   "twrp_url": "https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni",
-  "twrp_branch": "twrp-9.0",
+  "twrp_branch": "twrp-7.1",
   "git_username": "Pinkdoge",
   "git_email": "42758990+Pinkdoge@users.noreply.github.com",
   "use_own_dt": true,
-  "dt_url": "pinkdoge/twrp_device_huawei_kiwi",
-  "dt_branch": "android-9.0",
+  "dt_url": "Cai1Hsu/android_device_edutech_S1016Pro",
+  "dt_branch": "android-7.1",
   "dt_remote": "github",
-  "dt_path": "device/huawei/kiwi",
-  "device_code": "kiwi",
+  "dt_path": "device/rockchip/rk3368H_64",
+  "device_code": "rk3368H_64",
   "fix_product": true,
   "fix_misscom": true,
   "fix_busybox": false,
-  "fix_branch": "android-9.0"
+  "fix_branch": "android-7.1"
 }
